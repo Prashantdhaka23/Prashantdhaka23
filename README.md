@@ -1,13 +1,5 @@
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prashant Dhaka's README</title>
-</head>
-<body>
 
 <h1 align="center">Hi 👋, I'm Prashant Dhaka</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
@@ -65,8 +57,10 @@
 
 <h2>📫 How to reach me</h2>
 <ul>
-    <li><strong>Email</strong>: [prashantdhaka666@gmail.com]</li>
-    <li><strong>LinkedIn</strong>: <a href="[https://www.linkedin.com/in/prashant-dhaka-1709a722a/]">LinkedIn Profile</a></li>
+    <li><strong>Email</strong>: <a href="mailto:prashantdhaka666@gmail.com">prashantdhaka666@gmail.com</a></li>
+    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/prashant-dhaka-1709a722a/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="20" height="20"/> LinkedIn Profile</a></li>
+
 </ul>
 
 
